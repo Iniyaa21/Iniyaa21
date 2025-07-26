@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Iniyaa
 
-I'm a Computer Science student from India 🇮🇳 who loves building things with code and exploring the world of web development.  
+I'm a Computer Science student from India who loves building things with code and exploring the world of web development.  
 Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time 🧪💻
 
 ---
