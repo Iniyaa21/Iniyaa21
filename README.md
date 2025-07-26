@@ -18,14 +18,17 @@ Currently learning by experimenting, breaking things, and getting out of tutoria
 ## 💻 My Tech Toolbox
 
 ```ts
-Languages:
-🟨 JavaScript | 🟪 TypeScript | 🐍 Python | 🟦 C++
+### 🛠️ Tech Stack
 
-Frontend:
-🔺 Angular | ⚛️ React + Vite | 🧩 Ionic | 🧼 HTML/CSS | 🎨 Bootstrap | 🖼️ Material UI
+**Languages:**  
+🟨 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 🟪 [TypeScript](https://www.typescriptlang.org/) | 🐍 [Python](https://www.python.org/) | 🟦 [C++](https://en.cppreference.com/)
 
-Backend:
-🌐 Node.js | 🛠️ Express.js | 🔄 REST APIs
+**Frontend:**  
+🔺 [Angular](https://angular.io/) | ⚛️ [React + Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) | 🧩 [Ionic](https://ionicframework.com/) | 🧼 [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) | 🎨 [Bootstrap](https://getbootstrap.com/) | 🖼️ [Material UI](https://mui.com/)
 
-Tools & Other Stuff:
-🔧 Git & GitHub | 📁 VS Code | 🐧 Ubuntu | 🧪 Postman | 🧠 Markdown | 🔉 Deepseek API
+**Backend:**  
+🌐 [Node.js](https://nodejs.org/) | 🛠️ [Express.js](https://expressjs.com/) | 🔄 [REST APIs](https://www.codecademy.com/article/what-is-rest)
+
+**Tools & Other Stuff:**  
+🔧 [Git & GitHub](https://github.com/) | 📁 [VS Code](https://code.visualstudio.com/) | 🐧 [Ubuntu](https://ubuntu.com/) | 🧪 [Postman](https://www.postman.com/) | 🧠 [Markdown](https://www.markdownguide.org/) | 🔉 [Deepseek API](https://deepseek.com/)
+
