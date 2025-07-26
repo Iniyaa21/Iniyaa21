@@ -17,8 +17,7 @@ Currently learning by experimenting, breaking things, and getting out of tutoria
 
 ## 💻 My Tech Toolbox
 
-```ts
-### 🛠️ Tech Stack
+
 
 **Languages:**  
 🟨 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 🟪 [TypeScript](https://www.typescriptlang.org/) | 🐍 [Python](https://www.python.org/) | 🟦 [C++](https://en.cppreference.com/)
