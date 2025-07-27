@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hi, I am Iniyaa!
 I'm a Computer Science student from India who loves building things with code and exploring the world of web development.<br>Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time 🧪💻<br><br>
 # 🚀 What I’m Currently Up To
 <br>🔭 Rebuilding my gamified study app using React + Vite, with XP for finishing tasks and AI-generated questions via Mistral LLM.<br>🧠 Getting better at JavaScript.<br>⚙️ Working with Node.js + Express to build backends for my personal projects.<br>💅 Creating clean, simple UIs with Angular, Ionic, and standalone components.<br>🐧 Customizing my Ubuntu setup (yes, from scratch!) and learning Linux the hands-on way.
