@@ -40,7 +40,7 @@
 </p>
 <br>
 
-## 🏆 Trophies
+##  Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Iniyaa21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -48,7 +48,7 @@
 <br><br>
 
 
-## 🌐 Socials
+##  Socials
 
 <p align="center">
   <a href="https://linkedin.com/in/iniyaa-paari" target="_blank" rel="noreferrer">
