@@ -57,7 +57,12 @@
   <a href="mailto:iniyaapaari@gmail.com" target="_blank" rel="noreferrer">
     <img src="assets/gmail.png" height="50" alt="Gmail" />
   </a>
+  <a href="https://iniyaa-portfolio.vercel.app" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" height="50" alt="Portfolio Website" />
+</a>
+
 </p>
+
 
 
 <br><br>
