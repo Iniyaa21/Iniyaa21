@@ -40,15 +40,16 @@ I'm a Computer Science student from India who loves building things with code an
 <br><br>
 
 
-## Socials
+## 🌐 Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/iniyaa-paari">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/iniyaa-paari" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:iniyaapaari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  <a href="mailto:iniyaapaari@gmail.com" target="_blank" rel="noreferrer">
+    <img src="assets/gmail.png" height="50" alt="Gmail" />
   </a>
 </p>
+
 
 <br><br>
