@@ -1,9 +1,16 @@
 ![Header Banner](assets/github-header-banner.png)
 
-I'm a CS student from India who loves building things with code and exploring the world of web development.<br>Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time 🧪💻<br><br>
-##  What I’m Currently Up To
-🔭 Working more with ReactJS<br>⚙️ Working with Node.js + Express to build backends for my personal projects.
-<br><br>
+<p align="center">
+  I'm a CS student from India who loves building things with code and exploring the world of web development.<br>
+  Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time!
+  <br><br>
+  
+  ## What I’m Currently Up To  
+  🔭 Working more with ReactJS<br>
+  ⚙️ Working with Node.js + Express to build backends for my personal projects.
+  <br><br>
+</p>
+
 
 
 ##  Tech Stack
