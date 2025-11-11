@@ -1,5 +1,6 @@
-##  Hi, I am Iniyaa!
-I'm a Computer Science student from India who loves building things with code and exploring the world of web development.<br>Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time 🧪💻<br><br>
+![Header Banner](assets/github-header-banner.png)
+
+I'm a CS student from India who loves building things with code and exploring the world of web development.<br>Currently learning by experimenting, breaking things, and getting out of tutorial hell one day at a time 🧪💻<br><br>
 ##  What I’m Currently Up To
 🔭 Working more with ReactJS<br>⚙️ Working with Node.js + Express to build backends for my personal projects.
 <br><br>
