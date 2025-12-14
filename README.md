@@ -6,8 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
-  🔭 Working more with ReactJS<br>
-  ⚙️ Working with Node.js + Express to build backends for my personal projects.
+  ⚙️ Strengthening my backend skills with my project Vyntrix.
   <br><br>
 </p>
 
