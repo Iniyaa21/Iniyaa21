@@ -32,23 +32,4 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Iniyaa21&theme=blue-green&hide_border=false" height="150"/>
 </p>
-
-
-##  Socials
-
-<p align="center">
-  <a href="https://linkedin.com/in/iniyaa-paari" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iniyaapaari@gmail.com" target="_blank" rel="noreferrer">
-    <img src="assets/gmail.png" height="50" alt="Gmail" />
-  </a>
-  <a href="https://iniyaa-paari.vercel.app" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" height="50" alt="Portfolio Website" />
-</a>
-
-</p>
-
-
-
 <br><br>
