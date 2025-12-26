@@ -6,7 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
-  ⚙️ Strengthening my backend skills with my project Vyntrix.
+  Working on a lightweight Subscription Tracker backend project named Vyntrix!
   <br><br>
 </p>
 
