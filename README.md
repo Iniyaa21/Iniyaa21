@@ -6,7 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
-  Working on a lightweight Subscription Tracker backend project named Vyntrix!
+ Working on Vyntrix, a subscription tracker API where I’m designing secure auth flows, role-based authorization, and production-style REST endpoints!
   <br><br>
 </p>
 
