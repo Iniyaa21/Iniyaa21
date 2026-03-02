@@ -1,4 +1,4 @@
-![Header Banner](assets/github-header-banner.png)
+![Header Banner](assets/banner.png)
 
 <p align="center">
   I'm a CS student from India who loves building things with code and exploring the world of web development.<br>
