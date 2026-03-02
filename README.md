@@ -6,7 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
- Wrapping up my subscription tracker API project Vyntrix and starting a WebSockets project!
+ Wrapping up my subscription tracker API project Vyntrix and starting a new project 👀
   <br><br>
 </p>
 
