@@ -60,6 +60,6 @@
 ##  Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Iniyaa21&theme=blue-green&hide_border=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iniyaa21&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 <br><br>
