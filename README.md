@@ -6,7 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
- Wrapping up my subscription tracker API project Vyntrix and starting a new project 👀
+ Doing my SEP Summer Internship at JPMorganChase, Bangalore
   <br><br>
 </p>
 
