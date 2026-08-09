@@ -6,7 +6,7 @@
   <br><br>
   
   ## What I’m Currently Up To  
- Doing my SEP Summer Internship at JPMorganChase, Bangalore
+ Starting a new project 👀
   <br><br>
 </p>
 
