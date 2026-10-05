@@ -1,4 +1,4 @@
-![Header Banner](assets/banner.png)
+![Header Banner](assets/banner2.png)
 
 <p align="center">
   I'm a CS student from India who loves building things with code and exploring the world of web development.<br>
