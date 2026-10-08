@@ -54,7 +54,11 @@
 
 ##  Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iniyaa21&theme=tokyonight&hide_border=false" height="150"/>
-</p>
+</p> -->
+![](https://github-readme-stats.shion.dev/api?username=Iniyaa21&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Iniyaa21&theme=aura&hide_border=false)<br/>
+
+---
 <br><br>
